@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeenaGanta
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m a Software Developer, interested in Artificial Intelligence
 
 
 <!---
